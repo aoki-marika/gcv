@@ -5,19 +5,6 @@ body {
     font-size: 90%;
 }
 
-h1, h3 {
-    margin: 0;
-}
-
-h1 {
-    margin-bottom: 10pt;
-}
-
-h3 {
-    margin-right: 10pt;
-    float: left;
-}
-
 td > a {
     display: inline-block;
     width: 100%;
@@ -25,11 +12,6 @@ td > a {
     line-height: 44pt;
     text-decoration: none;
     color: inherit;
-}
-
-.info {
-    display: inline-block;
-    margin-bottom: 10pt;
 }
 
 td:nth-child(2), td:nth-child(6), td:nth-child(10) {

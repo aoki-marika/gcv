@@ -1,0 +1,35 @@
+h1, h3 {
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 10pt;
+}
+
+h3 {
+    margin-right: 10pt;
+    float: left;
+}
+
+.info {
+    display: inline-block;
+    margin-bottom: 10pt;
+}
+
+.bpm {
+    color: lime;
+}
+
+.note-count {
+    color: gray;
+}
+
+.chart {
+    position: relative;
+}
+
+.chart > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
