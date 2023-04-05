@@ -1,31 +1,13 @@
-h1, h3 {
-    margin: 0;
-}
-
-h1 {
-    margin-bottom: 10pt;
-}
-
-h3 {
-    margin-right: 10pt;
-    float: left;
-}
-
-.info {
-    display: inline-block;
-    margin-bottom: 10pt;
-}
-
-.bpm {
-    color: lime;
-}
-
-.note-count {
-    color: gray;
+.s {
+    font-size: 10px;
+    opacity: 0.5;
+    line-height: 12px;
 }
 
 .chart {
     position: relative;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
 }
 
 .chart > img:nth-child(2) {

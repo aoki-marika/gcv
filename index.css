@@ -2,6 +2,10 @@ h1, th, td {
     text-align: center;
 }
 
+h1 {
+    width: 100%;
+}
+
 table {
     border-collapse: collapse;
     margin-left: auto;
